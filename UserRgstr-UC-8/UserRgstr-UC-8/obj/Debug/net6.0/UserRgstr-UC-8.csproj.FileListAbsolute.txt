@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\UserRegistration\UserRegistration\UserRgstr-UC-8\UserRgstr-UC-8\bin\Debug\net6.0\UserRgstr-UC-8.exe
+C:\Users\USER\source\repos\UserRegistration\UserRegistration\UserRgstr-UC-8\UserRgstr-UC-8\bin\Debug\net6.0\UserRgstr-UC-8.deps.json
+C:\Users\USER\source\repos\UserRegistration\UserRegistration\UserRgstr-UC-8\UserRgstr-UC-8\bin\Debug\net6.0\UserRgstr-UC-8.runtimeconfig.json
+C:\Users\USER\source\repos\UserRegistration\UserRegistration\UserRgstr-UC-8\UserRgstr-UC-8\bin\Debug\net6.0\UserRgstr-UC-8.dll
+C:\Users\USER\source\repos\UserRegistration\UserRegistration\UserRgstr-UC-8\UserRgstr-UC-8\bin\Debug\net6.0\UserRgstr-UC-8.pdb
+C:\Users\USER\source\repos\UserRegistration\UserRegistration\UserRgstr-UC-8\UserRgstr-UC-8\obj\Debug\net6.0\UserRgstr-UC-8.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\UserRegistration\UserRegistration\UserRgstr-UC-8\UserRgstr-UC-8\obj\Debug\net6.0\UserRgstr-UC-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\UserRegistration\UserRegistration\UserRgstr-UC-8\UserRgstr-UC-8\obj\Debug\net6.0\UserRgstr-UC-8.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\UserRegistration\UserRegistration\UserRgstr-UC-8\UserRgstr-UC-8\obj\Debug\net6.0\UserRgstr-UC-8.AssemblyInfo.cs
+C:\Users\USER\source\repos\UserRegistration\UserRegistration\UserRgstr-UC-8\UserRgstr-UC-8\obj\Debug\net6.0\UserRgstr-UC-8.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\UserRegistration\UserRegistration\UserRgstr-UC-8\UserRgstr-UC-8\obj\Debug\net6.0\UserRgstr-UC-8.dll
+C:\Users\USER\source\repos\UserRegistration\UserRegistration\UserRgstr-UC-8\UserRgstr-UC-8\obj\Debug\net6.0\refint\UserRgstr-UC-8.dll
+C:\Users\USER\source\repos\UserRegistration\UserRegistration\UserRgstr-UC-8\UserRgstr-UC-8\obj\Debug\net6.0\UserRgstr-UC-8.pdb
+C:\Users\USER\source\repos\UserRegistration\UserRegistration\UserRgstr-UC-8\UserRgstr-UC-8\obj\Debug\net6.0\UserRgstr-UC-8.genruntimeconfig.cache
+C:\Users\USER\source\repos\UserRegistration\UserRegistration\UserRgstr-UC-8\UserRgstr-UC-8\obj\Debug\net6.0\ref\UserRgstr-UC-8.dll
